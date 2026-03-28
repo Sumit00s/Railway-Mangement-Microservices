@@ -4,3 +4,9 @@
 [submodule "search-service-microservice"]
 	path = search-service-microservice
 	url = https://github.com/Sumit00s/search-service-microservice.git
+[submodule "payment-service-microservice"]
+	path = payment-service-microservice
+	url = https://github.com/Sumit00s/payment-service-microservice.git
+[submodule "notification-service-microservice"]
+	path = notification-service-microservice
+	url = https://github.com/Sumit00s/notification-service-microservice.git
