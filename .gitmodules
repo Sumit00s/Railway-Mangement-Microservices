@@ -13,3 +13,6 @@
 [submodule "eureka-server-microservice"]
 	path = eureka-server-microservice
 	url = https://github.com/Sumit00s/eureka-server-microservice.git
+[submodule "booking-service-microservice"]
+	path = booking-service-microservice
+	url = https://github.com/Sumit00s/booking-service-microservice.git
