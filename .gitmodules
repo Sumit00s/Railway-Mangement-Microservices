@@ -19,3 +19,6 @@
 [submodule "auth-service-microservice"]
 	path = auth-service-microservice
 	url = https://github.com/Sumit00s/auth-service-microservice.git
+[submodule "api-gateway-microservice"]
+	path = api-gateway-microservice
+	url = https://github.com/Sumit00s/api-gateway-microservice.git
