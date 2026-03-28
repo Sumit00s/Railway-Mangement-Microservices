@@ -10,3 +10,6 @@
 [submodule "notification-service-microservice"]
 	path = notification-service-microservice
 	url = https://github.com/Sumit00s/notification-service-microservice.git
+[submodule "eureka-server-microservice"]
+	path = eureka-server-microservice
+	url = https://github.com/Sumit00s/eureka-server-microservice.git
