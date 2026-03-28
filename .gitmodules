@@ -16,3 +16,6 @@
 [submodule "booking-service-microservice"]
 	path = booking-service-microservice
 	url = https://github.com/Sumit00s/booking-service-microservice.git
+[submodule "auth-service-microservice"]
+	path = auth-service-microservice
+	url = https://github.com/Sumit00s/auth-service-microservice.git
