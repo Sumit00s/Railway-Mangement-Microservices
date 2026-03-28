@@ -1,3 +1,6 @@
 [submodule "train-service-mircroservice"]
 	path = train-service-mircroservice
 	url = https://github.com/Sumit00s/train-service-mircroservice.git
+[submodule "search-service-microservice"]
+	path = search-service-microservice
+	url = https://github.com/Sumit00s/search-service-microservice.git
